@@ -1,26 +1,3 @@
-## Hi there 👋
-
-🔭 I’m currently working on:
-Building modern web applications, experimenting with scalable backend architectures, and refining UI/UX experiences. <br />
-
-🌱 I’m currently learning:
-Advanced TypeScript patterns, cloud-native development (Docker, Kubernetes), and AI-powered workflows.<br />
-
-👯 I’m looking to collaborate on:
-Open-source projects, full-stack web apps, and tools that help developers work smarter.<br />
-
-🤔 I’m looking for help with:
-Improving project documentation, optimizing CI/CD pipelines, and exploring best practices for distributed systems.<br />
-
-💬 Ask me about:
-JavaScript/TypeScript, React, Next.js, Node.js, PHP, MySQL, backend engineering, clean architecture, and developer tooling.<br />
-
-📫 How to reach me:
-Email: codezilar@gmail.com
-WhatsApp: +2347048632016<br />
-
-😄 Pronouns:
-He/Him <br />
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/codezilar) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/codezilar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nexafoz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codezilar@gmail.com) 
